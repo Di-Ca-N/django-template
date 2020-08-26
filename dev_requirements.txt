@@ -1,0 +1,4 @@
+-r ./requirements.txt
+model-bakery
+autopep8
+coverage
